@@ -5,9 +5,9 @@
 # but you can also edit it by hand.
 
 meteor-platform
-insecure
 mdg:camera
 accounts-ui
 accounts-password
 mdg:geolocation
 autopublish
+insecure

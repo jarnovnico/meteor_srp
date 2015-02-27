@@ -6,6 +6,9 @@ if (Meteor.isClient) {
     photo: function () {
       return Session.get("photo");
     },
+    commentCount: function () {
+      return Comments.find({ text: {$ne: true}}).count();
+    },
     comments: function () {
       return Comments.find({}, {sort: {createdAt: -1}});
     },
@@ -37,7 +40,7 @@ if (Meteor.isClient) {
     "click .delete": function () {
       Comments.remove(this._id);
     },
-    'click .photo-button': function(){
+    "click .photo-button": function(){
       
       var cameraOptions = {
         width: 600,
