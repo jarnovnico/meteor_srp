@@ -165,13 +165,14 @@ footer > p {
   }
   .container {
     width: 100%;
-    margin-top: 3.5em;
+    margin-top: 5.5em;
     margin-left: 0;
     margin-right: 0;
     border-radius: 0;
   }
   h1{
     font-size: 1.2em;
+    clear: both;
   }
   aside {
     width: 100%;
@@ -183,8 +184,32 @@ footer > p {
     width: 100%;
     margin: 0;
   }
+  /*.camera-overlay {
+    margin: 0 auto;
+    padding: 0;
+  }
+  .camera-popup {
+    width: 20em;
+    height: 17em;
+    padding: 0.5em;
+    margin: auto;
+  }
+  .button-shutter{
+    margin: 0;
+  }
+  .button-cancel {
+    margin: 0;
+  }
+  .button.use-photo {
+    margin: 0;
+  }
+  .button.new-photo{
+    margin: 0;
+  }*/
   #login-buttons {
-    margin-left: 1em;
+    clear: both;
+    margin-top: 1em;
+    padding: 0;
   }
   footer {
     display: none;
