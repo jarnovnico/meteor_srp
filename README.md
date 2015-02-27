@@ -9,7 +9,7 @@
 - Met deze app kan je gebruikers accounts aanmaken en inloggen. 
 - Foto's maken via de ingebouwde webcam of op je mobielcamera.
 - De foto word dan op de index geplaatst.
-- Onder de foto kan je reacties plaatsen en zien hoeveel reacties er geplaatst zijn.
+- Onder de foto kan je reacties plaatsen, zien hoeveel reacties er geplaatst zijn en reacties verwijderen.
 - De app kan ook jou huidige locatie laten zien.
 
 *Deze functies zijn alleen te gebruiken al je bent ingelogged.*
