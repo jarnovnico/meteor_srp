@@ -1,5 +1,13 @@
 # meteor_srp
 
-Photo app.
+# Photo app.
 
-Packages:
+## Packages: 
+
+* meteor-platform
+* mdg:camera
+* accounts-ui
+* accounts-password
+* mdg:geolocation
+* autopublish
+* insecure
