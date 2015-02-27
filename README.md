@@ -1,6 +1,6 @@
 **meteor_srp**
 
-**Ik ben zelf helemaal niet zo technisch en toch heb ik wat leuks weten te maken! Erg tevreden! :)**
+*Ik ben zelf helemaal niet zo technisch en toch heb ik wat leuks weten te maken! Erg tevreden! :)*
 
 # Foto app.
 
